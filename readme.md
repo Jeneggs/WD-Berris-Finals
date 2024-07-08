@@ -113,4 +113,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Responsive Slider Using HTML & CSS Only
- | Used to guide me in creating sliders without JS | https://www.youtube.com/watch?v=1CZhGDU5cWM |
+ | Responsive Slider Using HTML & CSS Only
+ | Used to guide me in creating sliders without JS |https://www.youtube.com/watch?v=1CZhGDU5cWM
