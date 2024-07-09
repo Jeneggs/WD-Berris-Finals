@@ -52,6 +52,10 @@ nav ul {
     gap: 20px;
 }
 
+nav ul h3{
+    color: #0288d1;
+}
+
 nav ul li a {
     color: #ffffff;
     text-decoration: none;
