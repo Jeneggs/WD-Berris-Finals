@@ -100,8 +100,12 @@ nav ul li a:hover {
     margin-top: 20px;
 }
 
+.icons i:visited {
+    color: #ffffff;
+}
 
 .icons i {
+    color: #ffffff;
     font-size: 2em;
     margin: 0 15px;
 }
@@ -123,6 +127,7 @@ nav ul li a:hover {
 }
 
 .icon-box i {
+    color: #000000;
     font-size: 15em; 
     margin-bottom: 10px;
 }
