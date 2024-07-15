@@ -114,4 +114,25 @@ nav ul li a:hover {
     cursor: pointer;
 }
 
+.credits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap; 
+}
 
+.credits a {
+    flex: 1 1 45%; 
+    max-width: 950px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px; 
+}
+.credits a img {
+    width: 100%; 
+    height: auto;
+    max-width: 950px; 
+}
