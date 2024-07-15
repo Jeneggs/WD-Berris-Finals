@@ -111,4 +111,5 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Responsive Slider Using HTML & CSS Only | Used as a guide in creatign sliders without JS | https://www.youtube.com/watch?v=1CZhGDU5cWM |
+| Reference Website | Website used as inspiration| https://naiahhh.github.io/LANDING-AWD-FEUTECH/index.html |
 
