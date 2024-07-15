@@ -59,7 +59,7 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-This project is a website made for my finals project is Web Design! It features HTML and CSS to create different pages, animations, sliders, and more.
+This project is a website made for my finals project is Web Design! It features HTML and CSS to create different pages, animations, sliders, and more. The website serves as a resume that shows my skills, qualifications, and progress as an IT student.
 
 
 ### Key Components
