@@ -118,3 +118,6 @@ WD-ProjectName
 |Project 2|Headers and Footers| https://jeneggs.github.io/WD-Berris-SW3/ |
 |Project 3| Hero and Card Display| https://jeneggs.github.io/WD-HandsOnTwo-Berris/ |
 |Project 4|Feature Pages| https://jeneggs.github.io/WD-Berris-SW4/ |
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
