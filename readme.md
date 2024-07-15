@@ -110,7 +110,11 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
+| Title | Purpose | Link |
+|-|-|-|
+| Reference Website |  Website used as inspiration | https://naiahhh.github.io/LANDING-AWD-FEUTECH/index.html |
 | Responsive Slider Using HTML & CSS Only | Used as a guide in creatign sliders without JS | https://www.youtube.com/watch?v=1CZhGDU5cWM |
-<br/>
-| Reference Website | Website used as inspiration| https://naiahhh.github.io/LANDING-AWD-FEUTECH/index.html |
-
+|Project 1| Resume v.1 | https://jeneggs.github.io/WD-Sw2_Berris/ |
+|Project 2|Headers and Footers| https://jeneggs.github.io/WD-Berris-SW3/ |
+|Project 3| Hero and Card Display| https://jeneggs.github.io/WD-HandsOnTwo-Berris/ |
+|Project 4|Feature Pages| https://jeneggs.github.io/WD-Berris-SW4/ |
