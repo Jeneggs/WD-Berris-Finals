@@ -119,4 +119,4 @@ WD-ProjectName
 |Project 3| Hero and Card Display| https://jeneggs.github.io/WD-HandsOnTwo-Berris/ |
 |Project 4|Feature Pages| https://jeneggs.github.io/WD-Berris-SW4/ |
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Jeneggs)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeneggs)
