@@ -34,6 +34,10 @@ body {
     color: #ffffff;
 }
 
+.header-logo a{
+    text-decoration: none;
+}
+
 .header-logo img {
     width: 100px;
     height: auto;
